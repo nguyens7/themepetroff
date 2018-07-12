@@ -1,0 +1,12 @@
+Package: themepetroff
+Type: Package
+Title: Theme for Petroff Lab
+Version: 0.1.0
+Author: The package author <nguyens7@msu.edu>
+Maintainer: The package maintainer <nguyens7@msu.edu>
+Description: This package is for makign plots look ready for publication in
+    the Petroff lab.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
